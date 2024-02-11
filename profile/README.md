@@ -47,12 +47,12 @@ By closing the security gap between what organizations have and what they can pr
 # Contact Us
 
 [![Web](https://img.shields.io/badge/-Web-2E3A59?style=flat&logo=firefox&logoColor=white)](https://hackdra.com/)
-[![X](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=x&logoColor=white)](https://twitter.com/Hackdra)
-[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/HackdraAI)
+[![X](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=x&logoColor=white)](https://twitter.com/hackdra)
+[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/hackdra)
 [![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/908503030845)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/hackdra/)
-[![Instagram](https://img.shields.io/badge/-Instagram-833AB4?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/HackdraAI/)
-[![Facebook](https://img.shields.io/badge/-Facebook-3B5998?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/HackdraAI)
+[![Instagram](https://img.shields.io/badge/-Instagram-833AB4?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/hackdra/)
+[![Facebook](https://img.shields.io/badge/-Facebook-3B5998?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/hackdra)
 [![Medium](https://img.shields.io/badge/-Medium-12100E?style=flat&logo=medium&logoColor=white)](https://hackdra.medium.com/)
 [![Reddit](https://img.shields.io/badge/-Reddit-FF4500?style=flat&logo=reddit&logoColor=white)](https://reddit.com/u/hackdra)
 [![Email](https://img.shields.io/badge/-Email-2E3A59?style=flat&logo=mail&logoColor=white)](mailto:contact@hackdra.com)
