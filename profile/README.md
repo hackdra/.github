@@ -1,4 +1,4 @@
-[![Hackdra Cybersecurity and Artificial Intelligence Technologies](images/hackdra-cybersecurity.png)](https://hackdra.com/)
+[![Hackdra Cybersecurity and Artificial Intelligence Technologies](../images/hackdra-cybersecurity.png)](https://hackdra.com/)
 
 Hackdra was founded in 2019 by of the sector Pioneer cyber defense experts determined to save the internet from cyber deteriorations. By combining his passion for security with the high-level artificial intelligence technology he developed, he earned the title of the industry’s “first and only Dynamic Artificial Intelligence-based cyber security company”. By developing innovative methods for security risks that traditional methods cannot prevent, it has gave direction the understanding of security in the sector and has made a name for itself in the world cyber security configurations.
 
